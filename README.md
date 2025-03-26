@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I'm currenlty delving deep into the field of AI/ML
+
+[Certificate of completion of Post Graduate Program in Artificial Intelligence and Machine Learning: Business Applications](http://la.utexas.edu/texasexeced/digitalVerification.html?key=dzowymza)
+
+[Kaggle account](https://www.kaggle.com/mariyaantonova89)
+
+[LinkedIn](https://www.linkedin.com/in/mariya-antonova-a82ba710a)
+
 <!--
 **MariyaAntonova/MariyaAntonova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
